@@ -1,22 +1,22 @@
-#Personal Finance Management Application
-##Introduction
+# Personal Finance Management Application
+## Introduction
 In today's fast-paced world, managing personal finances effectively is crucial for achieving financial stability and reaching long-term goals. The Personal Finance Management Application is designed to help individuals track their financial activities efficiently. This tool offers a user-friendly platform where users can monitor their income and expenses, set and manage budgets, and track their progress toward their financial goals.
 
-##Objective
+## Objective
 The main objective of the Personal Finance Management Application is to provide a comprehensive and intuitive solution for individuals to manage their finances effectively. By offering features such as income and expense tracking, budget management, and goal setting, the application aims to empower users to take control of their financial well-being and make informed financial decisions.
 
-##Scope
+## Scope
 The Personal Finance Management Application encompasses the following features:
 
-###Income and Expense Tracking: Users can easily log and categorize their income and expenses, providing a clear overview of their financial activities.
+### Income and Expense Tracking: Users can easily log and categorize their income and expenses, providing a clear overview of their financial activities.
 
-###User Profile Management: 
+### User Profile Management: 
 Users can manage their profiles and update personal information.
 
-###Financial Reporting: Basic financial reports are available to help users understand their spending habits and identify areas for improvement.
+### Financial Reporting: Basic financial reports are available to help users understand their spending habits and identify areas for improvement.
 
-##Setup
-###Prerequisites
+## Setup
+### Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 Node.js installed on your system
